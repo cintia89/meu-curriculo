@@ -1,0 +1,99 @@
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(241, 176, 198);
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+
+    
+}
+
+.subtitulos{
+    text-align: center;
+    background-color: rgb(241,176,198);
+    color: white;
+    margin: 20px;
+    padding: 1px;
+    border-radius: 10px;
+}
+body {
+    background-color: blanchedalmond;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.resumo{
+    text-align: justify;
+    margin: 20px;
+}
+.rodapé{
+    text-align:center ;
+    background-color: rgb(241,176,198);
+    padding: 4px;
+    margin: 0px;
+    border-radius: 10px;
+}
+
+article{
+    text-align: center;
+    color:black
+}
+
+div{
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+  }
+  
+  h2:hover {
+    background-color: rgb(206, 66, 89);
+  }
+table,th,td
+   {border-color: black;
+    padding: 20px;
+    margin-inline-start: 20px;
+    text-align: center;
+    border: 1px solid black;
+    margin: auto;
+}
+
+li {
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+}
+
+li a {
+    padding: 5px 10px; 
+    background: #903;
+    text-decoration: none;
+    color:#FFF;
+
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+li a:hover {
+    background: #CCC;
+    color: #000; 
+    border-color: #000
+}
+
+img {
+    border-radius: 20px;
+    max-width: 15%; 
+    right: auto;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
